@@ -1,2 +1,4 @@
 # This is my first repo
-This is some text
+Some text for practicing
+
+Adding some more text
